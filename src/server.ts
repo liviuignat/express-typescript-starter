@@ -1,6 +1,6 @@
 import * as http from 'http';
-import app from './expressApp';
-import {logger} from './logger';
+import app from 'expressApp';
+import {logger} from 'logger';
 
 const server = http.createServer(app);
 const port = process.env.PORT || 3000;
