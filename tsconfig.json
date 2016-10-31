@@ -1,10 +1,7 @@
 {
   "compilerOptions": {
     "target": "ES6",
-    "baseUrl": "./src",
-    "rootDirs": [
-      "src"
-    ]
+    "baseUrl": "./src"
   },
   "files": [
     "src/**/**"
