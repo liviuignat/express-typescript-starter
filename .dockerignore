@@ -1,0 +1,6 @@
+.git
+.gitignore
+yarn.lock
+node_modules
+README.md
+*.log
